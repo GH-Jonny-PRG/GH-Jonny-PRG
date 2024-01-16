@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GH-Jonny-PRG
+- 👀 I’m interested in Coding and Playing Games
+- 🌱 I’m currently learning Python and HTML
+- 📫 How to reach me: just make an pull request
+- 😄 Pronouns: print("He / Him")
+- ⚡ Fun fact: yo mama is an joke between me and a friend 
